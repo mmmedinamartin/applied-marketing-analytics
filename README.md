@@ -28,3 +28,6 @@ Do not react to single-day movements unless revenue breaks outside the ±2σ ban
 
 ## Tools
 Python, pandas, NumPy, matplotlib, Jupyter Notebook
+
+## Files
+- `01_timeseries_noise_vs_signal.ipynb` — full analysis notebook
