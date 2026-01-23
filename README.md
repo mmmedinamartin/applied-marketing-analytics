@@ -4,6 +4,7 @@ This project analyses daily revenue volatility using transaction-level ecommerce
 
 ## Dataset
 Online Retail II — transaction-level data including invoice date, quantity, price, and country.
+Note: Dataset file is not included in the repo due to size. Download from Kaggle: Online Retail II.
 
 ## Objective
 Daily revenue fluctuates heavily. The goal is to:
