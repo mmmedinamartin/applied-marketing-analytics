@@ -53,13 +53,10 @@ Revenue = Active Customers × Orders per Customer × Average Order Value (AOV)
 
 **Key techniques:**
 
-Monthly aggregation of transaction data
-
-Construction of revenue driver components
-
-Structural (non-causal) interpretation of growth drivers
-
-Lightweight visualisation for pattern comparison
+- Monthly aggregation of transaction data
+- Construction of revenue driver components
+- Structural (non-causal) interpretation of growth drivers
+- Lightweight visualisation for pattern comparison
 
 **Output:**
 03_revenue_decomposition.ipynb
