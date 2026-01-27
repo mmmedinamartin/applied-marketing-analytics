@@ -42,6 +42,30 @@ whether growth is driven by acquisition or repeat behaviour.
 
 ---
 
+### Project 03 — Revenue Decomposition
+
+**Objective:**
+Decompose revenue into its mechanical drivers over time to understand
+what must have changed for revenue to rise or fall.
+
+Core identity:
+Revenue = Active Customers × Orders per Customer × Average Order Value (AOV)
+
+**Key techniques:**
+
+Monthly aggregation of transaction data
+
+Construction of revenue driver components
+
+Structural (non-causal) interpretation of growth drivers
+
+Lightweight visualisation for pattern comparison
+
+**Output:**
+03_revenue_decomposition.ipynb
+
+---
+
 ## Dataset
 All projects use the **Online Retail II** dataset, a real-world
 transaction-level ecommerce dataset.
